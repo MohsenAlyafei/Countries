@@ -15,3 +15,4 @@ Arabic_Short: The country short names most used in all publications
 
 Arabic_Official: The formal country name
 
+At the end of the file few countries are added which do not have ISO codes yet
