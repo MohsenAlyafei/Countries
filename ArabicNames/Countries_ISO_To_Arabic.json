@@ -1,5 +1,4 @@
-{
- "Countries_ISO_To_Arabic": [
+[
  {
    "ISO_2": "AD",
    "ISO_3": "AND",
@@ -1555,4 +1554,4 @@
    "Arabic_Official": "جمهورية أرض الصومال"
  }
 ]
-}
+
