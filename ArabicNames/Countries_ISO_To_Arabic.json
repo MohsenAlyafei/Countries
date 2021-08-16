@@ -1,1 +1,1556 @@
-
+[
+ {
+   "ISO_2": "AD",
+   "ISO_3": "AND",
+   "Arabic_Short": "أندورا",
+   "Arabic_Official": "إمارة أندورا"
+ },
+ {
+   "ISO_2": "AE",
+   "ISO_3": "ARE",
+   "Arabic_Short": "الإمارات",
+   "Arabic_Official": "الإمارات العربية المتحدة"
+ },
+ {
+   "ISO_2": "AF",
+   "ISO_3": "AFG",
+   "Arabic_Short": "أفغانستان",
+   "Arabic_Official": "جمهورية أفغانستان الإسلامية"
+ },
+ {
+   "ISO_2": "AG",
+   "ISO_3": "ATG",
+   "Arabic_Short": "أنتيغوا وبربودا",
+   "Arabic_Official": "أنتيغوا وبربودا"
+ },
+ {
+   "ISO_2": "AI",
+   "ISO_3": "AIA",
+   "Arabic_Short": "أنغويلا",
+   "Arabic_Official": "أنغويلا (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "AL",
+   "ISO_3": "ALB",
+   "Arabic_Short": "ألبانيا",
+   "Arabic_Official": "جمهورية ألبانيا"
+ },
+ {
+   "ISO_2": "AM",
+   "ISO_3": "ARM",
+   "Arabic_Short": "أرمينيا",
+   "Arabic_Official": "جمهورية أرمينيا"
+ },
+ {
+   "ISO_2": "AO",
+   "ISO_3": "AGO",
+   "Arabic_Short": "أنغولا",
+   "Arabic_Official": "جمهورية أنغولا"
+ },
+ {
+   "ISO_2": "AQ",
+   "ISO_3": "ATA",
+   "Arabic_Short": "القارة القطبية الجنوبية",
+   "Arabic_Official": "القارة القطبية الجنوبية"
+ },
+ {
+   "ISO_2": "AR",
+   "ISO_3": "ARG",
+   "Arabic_Short": "الأرجنتين",
+   "Arabic_Official": "جمهورية الأرجنتين"
+ },
+ {
+   "ISO_2": "AS",
+   "ISO_3": "ASM",
+   "Arabic_Short": "ساموا الأمريكية",
+   "Arabic_Official": "ساموا الأمريكية (الولايات المتحدة)"
+ },
+ {
+   "ISO_2": "AT",
+   "ISO_3": "AUT",
+   "Arabic_Short": "النمسا",
+   "Arabic_Official": "جمهورية النمسا"
+ },
+ {
+   "ISO_2": "AU",
+   "ISO_3": "AUS",
+   "Arabic_Short": "أستراليا",
+   "Arabic_Official": "كومنولث أستراليا"
+ },
+ {
+   "ISO_2": "AW",
+   "ISO_3": "ABW",
+   "Arabic_Short": "أروبا",
+   "Arabic_Official": "أروبا (هولندا)"
+ },
+ {
+   "ISO_2": "AX",
+   "ISO_3": "ALA",
+   "Arabic_Short": "جزر أولاند",
+   "Arabic_Official": "جزر أولاند (فنلندا)"
+ },
+ {
+   "ISO_2": "AZ",
+   "ISO_3": "AZE",
+   "Arabic_Short": "أذربيجان",
+   "Arabic_Official": "الجمهورية الأذربيجانية"
+ },
+ {
+   "ISO_2": "BA",
+   "ISO_3": "BIH",
+   "Arabic_Short": "البوسنة والهرسك",
+   "Arabic_Official": "البوسنة والهرسك"
+ },
+ {
+   "ISO_2": "BB",
+   "ISO_3": "BRB",
+   "Arabic_Short": "باربادوس",
+   "Arabic_Official": "باربادوس"
+ },
+ {
+   "ISO_2": "BD",
+   "ISO_3": "BGD",
+   "Arabic_Short": "بنغلاديش",
+   "Arabic_Official": "جمهورية بنغلاديش الشعبية"
+ },
+ {
+   "ISO_2": "BE",
+   "ISO_3": "BEL",
+   "Arabic_Short": "بلجيكا",
+   "Arabic_Official": "مملكة بلجيكا"
+ },
+ {
+   "ISO_2": "BF",
+   "ISO_3": "BFA",
+   "Arabic_Short": "بوركينا فاسو",
+   "Arabic_Official": "جمهورية بوركينا فاسو"
+ },
+ {
+   "ISO_2": "BG",
+   "ISO_3": "BGR",
+   "Arabic_Short": "بلغاريا",
+   "Arabic_Official": "جمهورية بلغاريا"
+ },
+ {
+   "ISO_2": "BH",
+   "ISO_3": "BHR",
+   "Arabic_Short": "البحرين",
+   "Arabic_Official": "مملكة البحرين"
+ },
+ {
+   "ISO_2": "BI",
+   "ISO_3": "BDI",
+   "Arabic_Short": "بوروندي",
+   "Arabic_Official": "جمهورية بوروندي"
+ },
+ {
+   "ISO_2": "BJ",
+   "ISO_3": "BEN",
+   "Arabic_Short": "بنن",
+   "Arabic_Official": "جمهورية بنن"
+ },
+ {
+   "ISO_2": "BL",
+   "ISO_3": "BLM",
+   "Arabic_Short": "سان بارتيلمي",
+   "Arabic_Official": "سان بارتيلمي (فرنسا)"
+ },
+ {
+   "ISO_2": "BM",
+   "ISO_3": "BMU",
+   "Arabic_Short": "برمودا",
+   "Arabic_Official": "برمودا (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "BN",
+   "ISO_3": "BRN",
+   "Arabic_Short": "بروني",
+   "Arabic_Official": "بروني دار السلام"
+ },
+ {
+   "ISO_2": "BO",
+   "ISO_3": "BOL",
+   "Arabic_Short": "بوليفيا",
+   "Arabic_Official": "دولة بوليفيا المتعددة القوميات"
+ },
+ {
+   "ISO_2": "BQ",
+   "ISO_3": "BES",
+   "Arabic_Short": "الجزر الكاريبية الهولندية",
+   "Arabic_Official": "الجزر الكاريبية الهولندية (هولندا)"
+ },
+ {
+   "ISO_2": "BR",
+   "ISO_3": "BRA",
+   "Arabic_Short": "البرازيل",
+   "Arabic_Official": "الجمهورية الاتحادية البرازيلية"
+ },
+ {
+   "ISO_2": "BS",
+   "ISO_3": "BHS",
+   "Arabic_Short": "باهاماس",
+   "Arabic_Official": "كومنولث البهاما"
+ },
+ {
+   "ISO_2": "BT",
+   "ISO_3": "BTN",
+   "Arabic_Short": "بوتان",
+   "Arabic_Official": "مملكة بوتان"
+ },
+ {
+   "ISO_2": "BV",
+   "ISO_3": "BVT",
+   "Arabic_Short": "جزيرة بوفيه",
+   "Arabic_Official": "جزيرة بوفيه (النرويج)"
+ },
+ {
+   "ISO_2": "BW",
+   "ISO_3": "BWA",
+   "Arabic_Short": "بوتسوانا",
+   "Arabic_Official": "جمهورية بوتسوانا"
+ },
+ {
+   "ISO_2": "BY",
+   "ISO_3": "BLR",
+   "Arabic_Short": "بيلاروس",
+   "Arabic_Official": "جمهورية بيلاروس"
+ },
+ {
+   "ISO_2": "BZ",
+   "ISO_3": "BLZ",
+   "Arabic_Short": "بليز",
+   "Arabic_Official": "بليز"
+ },
+ {
+   "ISO_2": "CA",
+   "ISO_3": "CAN",
+   "Arabic_Short": "كندا",
+   "Arabic_Official": "كندا"
+ },
+ {
+   "ISO_2": "CC",
+   "ISO_3": "CCK",
+   "Arabic_Short": "جزر كوكوس",
+   "Arabic_Official": "جزر كوكوس (أستراليا)"
+ },
+ {
+   "ISO_2": "CD",
+   "ISO_3": "COD",
+   "Arabic_Short": "جمهورية الكونغو الديمقراطية",
+   "Arabic_Official": "جمهورية الكونغو الديمقراطية"
+ },
+ {
+   "ISO_2": "CF",
+   "ISO_3": "CAF",
+   "Arabic_Short": "جمهورية أفريقيا الوسطى",
+   "Arabic_Official": "جمهورية أفريقيا الوسطى"
+ },
+ {
+   "ISO_2": "CG",
+   "ISO_3": "COG",
+   "Arabic_Short": "الكونغو",
+   "Arabic_Official": "جمهورية الكونغو"
+ },
+ {
+   "ISO_2": "CH",
+   "ISO_3": "CHE",
+   "Arabic_Short": "سويسرا",
+   "Arabic_Official": "الاتحاد السويسري"
+ },
+ {
+   "ISO_2": "CI",
+   "ISO_3": "CIV",
+   "Arabic_Short": "كوت ديفوار",
+   "Arabic_Official": "جمهورية كوت ديفوار"
+ },
+ {
+   "ISO_2": "CK",
+   "ISO_3": "COK",
+   "Arabic_Short": "جزر كوك",
+   "Arabic_Official": "جزر كوك (نيوزيلندا)"
+ },
+ {
+   "ISO_2": "CL",
+   "ISO_3": "CHL",
+   "Arabic_Short": "شيلي",
+   "Arabic_Official": "جمهورية شيلي"
+ },
+ {
+   "ISO_2": "CM",
+   "ISO_3": "CMR",
+   "Arabic_Short": "الكاميرون",
+   "Arabic_Official": "جمهورية الكاميرون"
+ },
+ {
+   "ISO_2": "CN",
+   "ISO_3": "CHN",
+   "Arabic_Short": "الصين",
+   "Arabic_Official": "جمهورية الصين الشعبية"
+ },
+ {
+   "ISO_2": "CO",
+   "ISO_3": "COL",
+   "Arabic_Short": "كولومبيا",
+   "Arabic_Official": "جمهورية كولومبيا"
+ },
+ {
+   "ISO_2": "CR",
+   "ISO_3": "CRI",
+   "Arabic_Short": "كوستاريكا",
+   "Arabic_Official": "جمهورية كوستاريكا"
+ },
+ {
+   "ISO_2": "CU",
+   "ISO_3": "CUB",
+   "Arabic_Short": "كوبا",
+   "Arabic_Official": "جمهورية كوبا"
+ },
+ {
+   "ISO_2": "CV",
+   "ISO_3": "CPV",
+   "Arabic_Short": "كابو فيردي",
+   "Arabic_Official": "جمهورية كابو فيردي"
+ },
+ {
+   "ISO_2": "CW",
+   "ISO_3": "CUW",
+   "Arabic_Short": "كوراساو",
+   "Arabic_Official": "كوراساو (هولندا)"
+ },
+ {
+   "ISO_2": "CX",
+   "ISO_3": "CXR",
+   "Arabic_Short": "جزيرة كريسماس",
+   "Arabic_Official": "جزيرة كريسماس (أستراليا)"
+ },
+ {
+   "ISO_2": "CY",
+   "ISO_3": "CYP",
+   "Arabic_Short": "قبرص",
+   "Arabic_Official": "جمهورية قبرص"
+ },
+ {
+   "ISO_2": "CZ",
+   "ISO_3": "CZE",
+   "Arabic_Short": "التشيك",
+   "Arabic_Official": "الجمهورية التشيكية"
+ },
+ {
+   "ISO_2": "DE",
+   "ISO_3": "DEU",
+   "Arabic_Short": "ألمانيا",
+   "Arabic_Official": "جمهورية ألمانيا الاتحادية"
+ },
+ {
+   "ISO_2": "DJ",
+   "ISO_3": "DJI",
+   "Arabic_Short": "جيبوتي",
+   "Arabic_Official": "جمهورية جيبوتي"
+ },
+ {
+   "ISO_2": "DK",
+   "ISO_3": "DNK",
+   "Arabic_Short": "الدانمرك",
+   "Arabic_Official": "مملكة الدانمرك"
+ },
+ {
+   "ISO_2": "DM",
+   "ISO_3": "DMA",
+   "Arabic_Short": "دومينيكا",
+   "Arabic_Official": "كمنولث دومينيكا"
+ },
+ {
+   "ISO_2": "DO",
+   "ISO_3": "DOM",
+   "Arabic_Short": "جمهورية الدومينيكان",
+   "Arabic_Official": "الجمهورية الدومينيكية"
+ },
+ {
+   "ISO_2": "DZ",
+   "ISO_3": "DZA",
+   "Arabic_Short": "الجزائر",
+   "Arabic_Official": "الجمهورية الجزائرية الديمقراطية الشعبية"
+ },
+ {
+   "ISO_2": "EC",
+   "ISO_3": "ECU",
+   "Arabic_Short": "إكوادور",
+   "Arabic_Official": "جمهورية إكوادور"
+ },
+ {
+   "ISO_2": "EE",
+   "ISO_3": "EST",
+   "Arabic_Short": "إستونيا",
+   "Arabic_Official": "جمهورية إستونيا"
+ },
+ {
+   "ISO_2": "EG",
+   "ISO_3": "EGY",
+   "Arabic_Short": "مصر",
+   "Arabic_Official": "جمهورية مصر العربية"
+ },
+ {
+   "ISO_2": "EH",
+   "ISO_3": "ESH",
+   "Arabic_Short": "الصحراء الغربية",
+   "Arabic_Official": "الجمهورية العربية الصحراوية الديمقراطية"
+ },
+ {
+   "ISO_2": "ER",
+   "ISO_3": "ERI",
+   "Arabic_Short": "إريتريا",
+   "Arabic_Official": "دولة إريتريا"
+ },
+ {
+   "ISO_2": "ES",
+   "ISO_3": "ESP",
+   "Arabic_Short": "إسبانيا",
+   "Arabic_Official": "مملكة إسبانيا"
+ },
+ {
+   "ISO_2": "ET",
+   "ISO_3": "ETH",
+   "Arabic_Short": "إثيوبيا",
+   "Arabic_Official": "جمهورية إثيوبيا الديمقراطية الاتحادية"
+ },
+ {
+   "ISO_2": "FI",
+   "ISO_3": "FIN",
+   "Arabic_Short": "فنلندا",
+   "Arabic_Official": "جمهورية فنلندا"
+ },
+ {
+   "ISO_2": "FJ",
+   "ISO_3": "FJI",
+   "Arabic_Short": "فيجي",
+   "Arabic_Official": "جمهورية فيجي"
+ },
+ {
+   "ISO_2": "FK",
+   "ISO_3": "FLK",
+   "Arabic_Short": "جزر فوكلاند",
+   "Arabic_Official": "جزر فوكلاند (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "FM",
+   "ISO_3": "FSM",
+   "Arabic_Short": "ولايات ميكرونيزيا الموحدة",
+   "Arabic_Official": "ولايات ميكرونيزيا الموحدة"
+ },
+ {
+   "ISO_2": "FO",
+   "ISO_3": "FRO",
+   "Arabic_Short": "جزر فارو",
+   "Arabic_Official": "جزر فارو (الدنمارك)"
+ },
+ {
+   "ISO_2": "FR",
+   "ISO_3": "FRA",
+   "Arabic_Short": "فرنسا",
+   "Arabic_Official": "الجمهورية الفرنسية"
+ },
+ {
+   "ISO_2": "GA",
+   "ISO_3": "GAB",
+   "Arabic_Short": "غابون",
+   "Arabic_Official": "الجمهورية الغابونية"
+ },
+ {
+   "ISO_2": "GB",
+   "ISO_3": "GBR",
+   "Arabic_Short": "المملكة المتحدة",
+   "Arabic_Official": "المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية"
+ },
+ {
+   "ISO_2": "GD",
+   "ISO_3": "GRD",
+   "Arabic_Short": "غرينادا",
+   "Arabic_Official": "غرينادا"
+ },
+ {
+   "ISO_2": "GE",
+   "ISO_3": "GEO",
+   "Arabic_Short": "جورجيا",
+   "Arabic_Official": "جورجيا"
+ },
+ {
+   "ISO_2": "GF",
+   "ISO_3": "GUF",
+   "Arabic_Short": "غويانا الفرنسية",
+   "Arabic_Official": "غويانا الفرنسية"
+ },
+ {
+   "ISO_2": "GG",
+   "ISO_3": "GGY",
+   "Arabic_Short": "غيرنزي",
+   "Arabic_Official": "غيرنزي (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "GH",
+   "ISO_3": "GHA",
+   "Arabic_Short": "غانا",
+   "Arabic_Official": "جمهورية غانا"
+ },
+ {
+   "ISO_2": "GI",
+   "ISO_3": "GIB",
+   "Arabic_Short": "جبل طارق",
+   "Arabic_Official": "جبل طارق (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "GL",
+   "ISO_3": "GRL",
+   "Arabic_Short": "غرينلاند",
+   "Arabic_Official": "غرينلاند (الدنمارك)"
+ },
+ {
+   "ISO_2": "GM",
+   "ISO_3": "GMB",
+   "Arabic_Short": "غامبيا",
+   "Arabic_Official": "جمهورية غامبيا"
+ },
+ {
+   "ISO_2": "GN",
+   "ISO_3": "GIN",
+   "Arabic_Short": "غينيا",
+   "Arabic_Official": "جمهورية غينيا"
+ },
+ {
+   "ISO_2": "GP",
+   "ISO_3": "GLP",
+   "Arabic_Short": "غوادلوب",
+   "Arabic_Official": "غوادلوب (فرنسا)"
+ },
+ {
+   "ISO_2": "GQ",
+   "ISO_3": "GNQ",
+   "Arabic_Short": "غينيا الاستوائية",
+   "Arabic_Official": "جمهورية غينيا الاستوائية"
+ },
+ {
+   "ISO_2": "GR",
+   "ISO_3": "GRC",
+   "Arabic_Short": "اليونان",
+   "Arabic_Official": "الجمهورية الهيلينية"
+ },
+ {
+   "ISO_2": "GS",
+   "ISO_3": "SGS",
+   "Arabic_Short": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+   "Arabic_Official": "جورجيا الجنوبية وجزر ساندويتش الجنوبية (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "GT",
+   "ISO_3": "GTM",
+   "Arabic_Short": "غواتيمالا",
+   "Arabic_Official": "جمهورية غواتيمالا"
+ },
+ {
+   "ISO_2": "GU",
+   "ISO_3": "GUM",
+   "Arabic_Short": "غوام",
+   "Arabic_Official": "غوام (الولايات المتحدة)"
+ },
+ {
+   "ISO_2": "GW",
+   "ISO_3": "GNB",
+   "Arabic_Short": "غينيا بيساو",
+   "Arabic_Official": "جمهورية غينيا بيساو"
+ },
+ {
+   "ISO_2": "GY",
+   "ISO_3": "GUY",
+   "Arabic_Short": "غيانا",
+   "Arabic_Official": "جمهورية غيانا"
+ },
+ {
+   "ISO_2": "HK",
+   "ISO_3": "HKG",
+   "Arabic_Short": "هونغ كونغ",
+   "Arabic_Official": "منطقة هونغ كونغ الإدارية الخاصة (الصين)"
+ },
+ {
+   "ISO_2": "HM",
+   "ISO_3": "HMD",
+   "Arabic_Short": "جزيرة هيرد وجزر ماكدونالد",
+   "Arabic_Official": "جزيرة هيرد وجزر ماكدونالد (أستراليا)"
+ },
+ {
+   "ISO_2": "HN",
+   "ISO_3": "HND",
+   "Arabic_Short": "هندوراس",
+   "Arabic_Official": "جمهورية هندوراس"
+ },
+ {
+   "ISO_2": "HR",
+   "ISO_3": "HRV",
+   "Arabic_Short": "كرواتيا",
+   "Arabic_Official": "جمهورية كرواتيا"
+ },
+ {
+   "ISO_2": "HT",
+   "ISO_3": "HTI",
+   "Arabic_Short": "هايتي",
+   "Arabic_Official": "جمهورية هايتي"
+ },
+ {
+   "ISO_2": "HU",
+   "ISO_3": "HUN",
+   "Arabic_Short": "هنغاريا",
+   "Arabic_Official": "هنغاريا"
+ },
+ {
+   "ISO_2": "ID",
+   "ISO_3": "IDN",
+   "Arabic_Short": "إندونيسيا",
+   "Arabic_Official": "جمهورية إندونيسيا"
+ },
+ {
+   "ISO_2": "IE",
+   "ISO_3": "IRL",
+   "Arabic_Short": "آيرلندا",
+   "Arabic_Official": "آيرلندا"
+ },
+ {
+   "ISO_2": "IL",
+   "ISO_3": "ISR",
+   "Arabic_Short": "إسرائيل",
+   "Arabic_Official": "دولة إسرائيل"
+ },
+ {
+   "ISO_2": "IM",
+   "ISO_3": "IMN",
+   "Arabic_Short": "جزيرة مان",
+   "Arabic_Official": "جزيرة مان (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "IN",
+   "ISO_3": "IND",
+   "Arabic_Short": "الهند",
+   "Arabic_Official": "جمهورية الهند"
+ },
+ {
+   "ISO_2": "IO",
+   "ISO_3": "IOT",
+   "Arabic_Short": "إقليم المحيط الهندي البريطاني",
+   "Arabic_Official": "إقليم المحيط الهندي البريطاني"
+ },
+ {
+   "ISO_2": "IQ",
+   "ISO_3": "IRQ",
+   "Arabic_Short": "العراق",
+   "Arabic_Official": "جمهورية العراق"
+ },
+ {
+   "ISO_2": "IR",
+   "ISO_3": "IRN",
+   "Arabic_Short": "إيران",
+   "Arabic_Official": "الجمهورية الإسلامية الإيرانية"
+ },
+ {
+   "ISO_2": "IS",
+   "ISO_3": "ISL",
+   "Arabic_Short": "آيسلندا",
+   "Arabic_Official": "جمهورية آيسلندا"
+ },
+ {
+   "ISO_2": "IT",
+   "ISO_3": "ITA",
+   "Arabic_Short": "إيطاليا",
+   "Arabic_Official": "جمهورية إيطاليا"
+ },
+ {
+   "ISO_2": "JE",
+   "ISO_3": "JEY",
+   "Arabic_Short": "جيرزي",
+   "Arabic_Official": "جيرزي (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "JM",
+   "ISO_3": "JAM",
+   "Arabic_Short": "جامايكا",
+   "Arabic_Official": "جامايكا"
+ },
+ {
+   "ISO_2": "JO",
+   "ISO_3": "JOR",
+   "Arabic_Short": "الأردن",
+   "Arabic_Official": "المملكة الأردنية الهاشمية"
+ },
+ {
+   "ISO_2": "JP",
+   "ISO_3": "JPN",
+   "Arabic_Short": "اليابان",
+   "Arabic_Official": "اليابان"
+ },
+ {
+   "ISO_2": "KE",
+   "ISO_3": "KEN",
+   "Arabic_Short": "كينيا",
+   "Arabic_Official": "جمهورية كينيا"
+ },
+ {
+   "ISO_2": "KG",
+   "ISO_3": "KGZ",
+   "Arabic_Short": "قيرغيزستان",
+   "Arabic_Official": "جمهورية قيرغيزستان"
+ },
+ {
+   "ISO_2": "KH",
+   "ISO_3": "KHM",
+   "Arabic_Short": "كمبوديا",
+   "Arabic_Official": "مملكة كمبوديا"
+ },
+ {
+   "ISO_2": "KI",
+   "ISO_3": "KIR",
+   "Arabic_Short": "كيريباتي",
+   "Arabic_Official": "جمهورية كيريباس"
+ },
+ {
+   "ISO_2": "KM",
+   "ISO_3": "COM",
+   "Arabic_Short": "جزر القُمر",
+   "Arabic_Official": " اتحاد جزر القُمر"
+ },
+ {
+   "ISO_2": "KN",
+   "ISO_3": "KNA",
+   "Arabic_Short": "سانت كيتس ونيفيس",
+   "Arabic_Official": "سانت كيتس ونيفيس"
+ },
+ {
+   "ISO_2": "KP",
+   "ISO_3": "PRK",
+   "Arabic_Short": "كوريا الشمالية",
+   "Arabic_Official": "جمهورية كوريا الشعبية الديمقراطية"
+ },
+ {
+   "ISO_2": "KR",
+   "ISO_3": "KOR",
+   "Arabic_Short": "كوريا الجنوبية",
+   "Arabic_Official": "جمهورية كوريا"
+ },
+ {
+   "ISO_2": "KW",
+   "ISO_3": "KWT",
+   "Arabic_Short": "الكويت",
+   "Arabic_Official": "دولة الكويت"
+ },
+ {
+   "ISO_2": "KY",
+   "ISO_3": "CYM",
+   "Arabic_Short": "جزر كايمان",
+   "Arabic_Official": "جزر كايمان (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "KZ",
+   "ISO_3": "KAZ",
+   "Arabic_Short": "كازاخستان",
+   "Arabic_Official": "جمهورية كازاخستان"
+ },
+ {
+   "ISO_2": "LA",
+   "ISO_3": "LAO",
+   "Arabic_Short": "لاو",
+   "Arabic_Official": "جمهورية لاو الديمقراطية الشعبية"
+ },
+ {
+   "ISO_2": "LB",
+   "ISO_3": "LBN",
+   "Arabic_Short": "لبنان",
+   "Arabic_Official": "الجمهورية اللبنانية"
+ },
+ {
+   "ISO_2": "LC",
+   "ISO_3": "LCA",
+   "Arabic_Short": "سانت لوسيا",
+   "Arabic_Official": "سانت لوسيا"
+ },
+ {
+   "ISO_2": "LI",
+   "ISO_3": "LIE",
+   "Arabic_Short": "ليختنشتاين",
+   "Arabic_Official": "إمارة ليختنشتاين"
+ },
+ {
+   "ISO_2": "LK",
+   "ISO_3": "LKA",
+   "Arabic_Short": "سريلانكا",
+   "Arabic_Official": "جمهورية سريلانكا الاشتراكية الديمقراطية"
+ },
+ {
+   "ISO_2": "LR",
+   "ISO_3": "LBR",
+   "Arabic_Short": "ليبيريا",
+   "Arabic_Official": "جمهورية ليبيريا"
+ },
+ {
+   "ISO_2": "LS",
+   "ISO_3": "LSO",
+   "Arabic_Short": "ليسوتو",
+   "Arabic_Official": "مملكة ليسوتو"
+ },
+ {
+   "ISO_2": "LT",
+   "ISO_3": "LTU",
+   "Arabic_Short": "ليتوانيا",
+   "Arabic_Official": "جمهورية ليتوانيا"
+ },
+ {
+   "ISO_2": "LU",
+   "ISO_3": "LUX",
+   "Arabic_Short": "لكسمبرغ",
+   "Arabic_Official": "دوقية لوكسمبرغ الكبرى"
+ },
+ {
+   "ISO_2": "LV",
+   "ISO_3": "LVA",
+   "Arabic_Short": "لاتفيا",
+   "Arabic_Official": "جمهورية لاتفيا"
+ },
+ {
+   "ISO_2": "LY",
+   "ISO_3": "LBY",
+   "Arabic_Short": "ليبيا",
+   "Arabic_Official": "دولة ليبيا"
+ },
+ {
+   "ISO_2": "MA",
+   "ISO_3": "MAR",
+   "Arabic_Short": "المغرب",
+   "Arabic_Official": "المملكة المغربية"
+ },
+ {
+   "ISO_2": "MC",
+   "ISO_3": "MCO",
+   "Arabic_Short": "موناكو",
+   "Arabic_Official": "إمارة موناكو"
+ },
+ {
+   "ISO_2": "MD",
+   "ISO_3": "MDA",
+   "Arabic_Short": "مولدوفا",
+   "Arabic_Official": "جمهورية مولدوفا"
+ },
+ {
+   "ISO_2": "ME",
+   "ISO_3": "MNE",
+   "Arabic_Short": "الجبل الأسود",
+   "Arabic_Official": "الجبل الأسود"
+ },
+ {
+   "ISO_2": "MF",
+   "ISO_3": "MAF",
+   "Arabic_Short": "سان مارتين",
+   "Arabic_Official": "تجمع سان مارتين (فرنسا)"
+ },
+ {
+   "ISO_2": "MG",
+   "ISO_3": "MDG",
+   "Arabic_Short": "مدغشقر",
+   "Arabic_Official": "جمهورية مدغشقر"
+ },
+ {
+   "ISO_2": "MH",
+   "ISO_3": "MHL",
+   "Arabic_Short": "جزر مارشال",
+   "Arabic_Official": "جمهورية جزر مارشال"
+ },
+ {
+   "ISO_2": "MK",
+   "ISO_3": "MKD",
+   "Arabic_Short": "مقدونيا الشمالية",
+   "Arabic_Official": "جمهورية مقدونيا الشمالية"
+ },
+ {
+   "ISO_2": "ML",
+   "ISO_3": "MLI",
+   "Arabic_Short": "مالي",
+   "Arabic_Official": "جمهورية مالي"
+ },
+ {
+   "ISO_2": "MM",
+   "ISO_3": "MMR",
+   "Arabic_Short": "ميانمار",
+   "Arabic_Official": "جمهورية اتحاد ميانمار"
+ },
+ {
+   "ISO_2": "MN",
+   "ISO_3": "MNG",
+   "Arabic_Short": "منغوليا",
+   "Arabic_Official": "منغوليا"
+ },
+ {
+   "ISO_2": "MO",
+   "ISO_3": "MAC",
+   "Arabic_Short": "ماكاو",
+   "Arabic_Official": "منطقة ماكاو الإدارية الخاصة (الصين)"
+ },
+ {
+   "ISO_2": "MP",
+   "ISO_3": "MNP",
+   "Arabic_Short": "جزر ماريانا الشمالية",
+   "Arabic_Official": "جزر ماريانا الشمالية (الولايات المتحدة)"
+ },
+ {
+   "ISO_2": "MQ",
+   "ISO_3": "MTQ",
+   "Arabic_Short": "مارتينيك",
+   "Arabic_Official": "مارتينيك (فرنسا)"
+ },
+ {
+   "ISO_2": "MR",
+   "ISO_3": "MRT",
+   "Arabic_Short": "موريتانيا",
+   "Arabic_Official": "الجمهورية الإسلامية الموريتانية"
+ },
+ {
+   "ISO_2": "MS",
+   "ISO_3": "MSR",
+   "Arabic_Short": "مونتسيرات",
+   "Arabic_Official": "مونتسيرات (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "MT",
+   "ISO_3": "MLT",
+   "Arabic_Short": "مالطة",
+   "Arabic_Official": "جمهورية مالطة"
+ },
+ {
+   "ISO_2": "MU",
+   "ISO_3": "MUS",
+   "Arabic_Short": "موريشيوس",
+   "Arabic_Official": "جمهورية موريشيوس"
+ },
+ {
+   "ISO_2": "MV",
+   "ISO_3": "MDV",
+   "Arabic_Short": "ملديف",
+   "Arabic_Official": "جمهورية ملديف"
+ },
+ {
+   "ISO_2": "MW",
+   "ISO_3": "MWI",
+   "Arabic_Short": "ملاوي",
+   "Arabic_Official": "جمهورية ملاوي"
+ },
+ {
+   "ISO_2": "MX",
+   "ISO_3": "MEX",
+   "Arabic_Short": "المكسيك",
+   "Arabic_Official": "الولايات المتحدة المكسيكية"
+ },
+ {
+   "ISO_2": "MY",
+   "ISO_3": "MYS",
+   "Arabic_Short": "ماليزيا",
+   "Arabic_Official": "ماليزيا"
+ },
+ {
+   "ISO_2": "MZ",
+   "ISO_3": "MOZ",
+   "Arabic_Short": "موزامبيق",
+   "Arabic_Official": "جمهورية موزامبيق"
+ },
+ {
+   "ISO_2": "NA",
+   "ISO_3": "NAM",
+   "Arabic_Short": "ناميبيا",
+   "Arabic_Official": "جمهورية ناميبيا"
+ },
+ {
+   "ISO_2": "NC",
+   "ISO_3": "NCL",
+   "Arabic_Short": "كاليدونيا الجديدة",
+   "Arabic_Official": "كاليدونيا الجديدة (فرنسا)"
+ },
+ {
+   "ISO_2": "NE",
+   "ISO_3": "NER",
+   "Arabic_Short": "النيجر",
+   "Arabic_Official": "جمهورية النيجر"
+ },
+ {
+   "ISO_2": "NF",
+   "ISO_3": "NFK",
+   "Arabic_Short": "جزيرة نورفولك",
+   "Arabic_Official": "جزيرة نورفولك (أستراليا)"
+ },
+ {
+   "ISO_2": "NG",
+   "ISO_3": "NGA",
+   "Arabic_Short": "نيجيريا",
+   "Arabic_Official": "جمهورية نيجيريا الاتحادية"
+ },
+ {
+   "ISO_2": "NI",
+   "ISO_3": "NIC",
+   "Arabic_Short": "نيكاراغوا",
+   "Arabic_Official": "جمهورية نيكاراغوا"
+ },
+ {
+   "ISO_2": "NL",
+   "ISO_3": "NLD",
+   "Arabic_Short": "هولندا",
+   "Arabic_Official": "مملكة هولندا"
+ },
+ {
+   "ISO_2": "NO",
+   "ISO_3": "NOR",
+   "Arabic_Short": "النرويج",
+   "Arabic_Official": "مملكة النرويج"
+ },
+ {
+   "ISO_2": "NP",
+   "ISO_3": "NPL",
+   "Arabic_Short": "نيبال",
+   "Arabic_Official": "جمهورية نيبال الديمقراطية الاتحادية"
+ },
+ {
+   "ISO_2": "NR",
+   "ISO_3": "NRU",
+   "Arabic_Short": "ناورو",
+   "Arabic_Official": "جمهورية ناورو"
+ },
+ {
+   "ISO_2": "NU",
+   "ISO_3": "NIU",
+   "Arabic_Short": "نييوي",
+   "Arabic_Official": "نييوي (نيوزيلندا)"
+ },
+ {
+   "ISO_2": "NZ",
+   "ISO_3": "NZL",
+   "Arabic_Short": "نيوزيلندا",
+   "Arabic_Official": "نيوزيلندا"
+ },
+ {
+   "ISO_2": "OM",
+   "ISO_3": "OMN",
+   "Arabic_Short": "عُمان",
+   "Arabic_Official": "سلطنة عُمان"
+ },
+ {
+   "ISO_2": "PA",
+   "ISO_3": "PAN",
+   "Arabic_Short": "بنما",
+   "Arabic_Official": "جمهورية بنما"
+ },
+ {
+   "ISO_2": "PE",
+   "ISO_3": "PER",
+   "Arabic_Short": "بيرو",
+   "Arabic_Official": "جمهورية بيرو"
+ },
+ {
+   "ISO_2": "PF",
+   "ISO_3": "PYF",
+   "Arabic_Short": "بولينيزيا الفرنسية",
+   "Arabic_Official": "بولينيزيا الفرنسية"
+ },
+ {
+   "ISO_2": "PG",
+   "ISO_3": "PNG",
+   "Arabic_Short": "بابوا غينيا الجديدة",
+   "Arabic_Official": "دولة بابوا غينيا الجديدة المستقلة"
+ },
+ {
+   "ISO_2": "PH",
+   "ISO_3": "PHL",
+   "Arabic_Short": "الفلبين",
+   "Arabic_Official": "جمهورية الفلبين"
+ },
+ {
+   "ISO_2": "PK",
+   "ISO_3": "PAK",
+   "Arabic_Short": "باكستان",
+   "Arabic_Official": "جمهورية باكستان الإسلامية"
+ },
+ {
+   "ISO_2": "PL",
+   "ISO_3": "POL",
+   "Arabic_Short": "بولندا",
+   "Arabic_Official": "جمهورية بولندا"
+ },
+ {
+   "ISO_2": "PM",
+   "ISO_3": "SPM",
+   "Arabic_Short": "سان بيير وميكلون",
+   "Arabic_Official": "سان بيير وميكلون (فرنسا)"
+ },
+ {
+   "ISO_2": "PN",
+   "ISO_3": "PCN",
+   "Arabic_Short": "جزر بيتكيرن",
+   "Arabic_Official": "جزر بيتكيرن (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "PR",
+   "ISO_3": "PRI",
+   "Arabic_Short": "بورتوريكو",
+   "Arabic_Official": "بورتوريكو (الولايات المتحدة)"
+ },
+ {
+   "ISO_2": "PS",
+   "ISO_3": "PSE",
+   "Arabic_Short": "فلسطين",
+   "Arabic_Official": "دولة فلسطين"
+ },
+ {
+   "ISO_2": "PT",
+   "ISO_3": "PRT",
+   "Arabic_Short": "البرتغال",
+   "Arabic_Official": "الجمهورية البرتغالية"
+ },
+ {
+   "ISO_2": "PW",
+   "ISO_3": "PLW",
+   "Arabic_Short": "بالاو",
+   "Arabic_Official": "جمهورية بالاو"
+ },
+ {
+   "ISO_2": "PY",
+   "ISO_3": "PRY",
+   "Arabic_Short": "باراغواي",
+   "Arabic_Official": "جمهورية باراغواي"
+ },
+ {
+   "ISO_2": "QA",
+   "ISO_3": "QAT",
+   "Arabic_Short": "قطر",
+   "Arabic_Official": "دولة قطر"
+ },
+ {
+   "ISO_2": "RE",
+   "ISO_3": "REU",
+   "Arabic_Short": "لا ريونيون",
+   "Arabic_Official": "لا ريونيون (فرنسا)"
+ },
+ {
+   "ISO_2": "RO",
+   "ISO_3": "ROU",
+   "Arabic_Short": "رومانيا",
+   "Arabic_Official": "رومانيا"
+ },
+ {
+   "ISO_2": "RS",
+   "ISO_3": "SRB",
+   "Arabic_Short": "صربيا",
+   "Arabic_Official": "جمهورية صربيا"
+ },
+ {
+   "ISO_2": "RU",
+   "ISO_3": "RUS",
+   "Arabic_Short": "روسيا",
+   "Arabic_Official": "الاتحاد الروسي"
+ },
+ {
+   "ISO_2": "RW",
+   "ISO_3": "RWA",
+   "Arabic_Short": "رواندا",
+   "Arabic_Official": "جمهورية رواندا"
+ },
+ {
+   "ISO_2": "SA",
+   "ISO_3": "SAU",
+   "Arabic_Short": "السعودية",
+   "Arabic_Official": "المملكة العربية السعودية"
+ },
+ {
+   "ISO_2": "SB",
+   "ISO_3": "SLB",
+   "Arabic_Short": "جزر سليمان",
+   "Arabic_Official": "جزر سليمان"
+ },
+ {
+   "ISO_2": "SC",
+   "ISO_3": "SYC",
+   "Arabic_Short": "سيشيل",
+   "Arabic_Official": "جمهورية سيشيل"
+ },
+ {
+   "ISO_2": "SD",
+   "ISO_3": "SDN",
+   "Arabic_Short": "السودان",
+   "Arabic_Official": "جمهورية السودان"
+ },
+ {
+   "ISO_2": "SE",
+   "ISO_3": "SWE",
+   "Arabic_Short": "السويد",
+   "Arabic_Official": "مملكة السويد"
+ },
+ {
+   "ISO_2": "SG",
+   "ISO_3": "SGP",
+   "Arabic_Short": "سنغافورة",
+   "Arabic_Official": "جمهورية سنغافورة"
+ },
+ {
+   "ISO_2": "SH",
+   "ISO_3": "SHN",
+   "Arabic_Short": "جزيرة أسينشين",
+   "Arabic_Official": "سانت هيلانة وأسينشين وتريستان دا كونا (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "SI",
+   "ISO_3": "SVN",
+   "Arabic_Short": "سلوفينيا",
+   "Arabic_Official": "جمهورية سلوفينيا"
+ },
+ {
+   "ISO_2": "SJ",
+   "ISO_3": "SJM",
+   "Arabic_Short": "سفالبارد ويان ماين",
+   "Arabic_Official": "سفالبارد ويان ماين (النرويج)"
+ },
+ {
+   "ISO_2": "SK",
+   "ISO_3": "SVK",
+   "Arabic_Short": "سلوفاكيا",
+   "Arabic_Official": "الجمهورية السلوفاكية"
+ },
+ {
+   "ISO_2": "SL",
+   "ISO_3": "SLE",
+   "Arabic_Short": "سيراليون",
+   "Arabic_Official": "جمهورية سيراليون"
+ },
+ {
+   "ISO_2": "SM",
+   "ISO_3": "SMR",
+   "Arabic_Short": "سان مارينو",
+   "Arabic_Official": "جمهورية سان مارينو"
+ },
+ {
+   "ISO_2": "SN",
+   "ISO_3": "SEN",
+   "Arabic_Short": "السنغال",
+   "Arabic_Official": "جمهورية السنغال"
+ },
+ {
+   "ISO_2": "SO",
+   "ISO_3": "SOM",
+   "Arabic_Short": "الصومال",
+   "Arabic_Official": "جمهورية الصومال  الاتحادية"
+ },
+ {
+   "ISO_2": "SR",
+   "ISO_3": "SUR",
+   "Arabic_Short": "سورينام",
+   "Arabic_Official": "جمهورية سورينام"
+ },
+ {
+   "ISO_2": "SS",
+   "ISO_3": "SSD",
+   "Arabic_Short": "جنوب السودان",
+   "Arabic_Official": "جمهورية جنوب السودان"
+ },
+ {
+   "ISO_2": "ST",
+   "ISO_3": "STP",
+   "Arabic_Short": "ساو تومي وبرينسيبي",
+   "Arabic_Official": "جمهورية ساو تومي وبرينسيبي الديمقراطية"
+ },
+ {
+   "ISO_2": "SV",
+   "ISO_3": "SLV",
+   "Arabic_Short": "السلفادور",
+   "Arabic_Official": "جمهورية السلفادور"
+ },
+ {
+   "ISO_2": "SX",
+   "ISO_3": "SXM",
+   "Arabic_Short": "سينت مارتن",
+   "Arabic_Official": "سينت مارتن (الجزء الهولندي)"
+ },
+ {
+   "ISO_2": "SY",
+   "ISO_3": "SYR",
+   "Arabic_Short": "سوريا",
+   "Arabic_Official": "الجمهورية العربية السورية"
+ },
+ {
+   "ISO_2": "SZ",
+   "ISO_3": "SWZ",
+   "Arabic_Short": "إسواتيني",
+   "Arabic_Official": "مملكة إسواتيني"
+ },
+ {
+   "ISO_2": "TC",
+   "ISO_3": "TCA",
+   "Arabic_Short": "جزر توركس وكايكوس",
+   "Arabic_Official": "جزر توركس وكايكوس (المملكة المتحدة)"
+ },
+ {
+   "ISO_2": "TD",
+   "ISO_3": "TCD",
+   "Arabic_Short": "تشاد",
+   "Arabic_Official": "جمهورية تشاد"
+ },
+ {
+   "ISO_2": "TF",
+   "ISO_3": "ATF",
+   "Arabic_Short": "أراض فرنسية جنوبية وأنتارتيكية",
+   "Arabic_Official": "أراض فرنسية جنوبية وأنتارتيكية"
+ },
+ {
+   "ISO_2": "TG",
+   "ISO_3": "TGO",
+   "Arabic_Short": "توغو",
+   "Arabic_Official": "الجمهورية التوغوية"
+ },
+ {
+   "ISO_2": "TH",
+   "ISO_3": "THA",
+   "Arabic_Short": "تايلند",
+   "Arabic_Official": "مملكة تايلند"
+ },
+ {
+   "ISO_2": "TJ",
+   "ISO_3": "TJK",
+   "Arabic_Short": "طاجيكستان",
+   "Arabic_Official": "جمهورية طاجيكستان"
+ },
+ {
+   "ISO_2": "TK",
+   "ISO_3": "TKL",
+   "Arabic_Short": "توكيلاو",
+   "Arabic_Official": "توكيلاو (نيوزيلندا)"
+ },
+ {
+   "ISO_2": "TL",
+   "ISO_3": "TLS",
+   "Arabic_Short": "تيمور الشرقية",
+   "Arabic_Official": "جمهورية تيمور الشرقية الديمقراطية"
+ },
+ {
+   "ISO_2": "TM",
+   "ISO_3": "TKM",
+   "Arabic_Short": "تركمانستان",
+   "Arabic_Official": "تركمانستان"
+ },
+ {
+   "ISO_2": "TN",
+   "ISO_3": "TUN",
+   "Arabic_Short": "تونس",
+   "Arabic_Official": "الجمهورية التونسية"
+ },
+ {
+   "ISO_2": "TO",
+   "ISO_3": "TON",
+   "Arabic_Short": "تونغا",
+   "Arabic_Official": "مملكة تونغا"
+ },
+ {
+   "ISO_2": "TR",
+   "ISO_3": "TUR",
+   "Arabic_Short": "تركيا",
+   "Arabic_Official": "جمهورية تركيا"
+ },
+ {
+   "ISO_2": "TT",
+   "ISO_3": "TTO",
+   "Arabic_Short": "ترينيداد وتوباغو",
+   "Arabic_Official": "جمهورية ترينيداد وتوباغو"
+ },
+ {
+   "ISO_2": "TV",
+   "ISO_3": "TUV",
+   "Arabic_Short": "توفالو",
+   "Arabic_Official": "توفالو"
+ },
+ {
+   "ISO_2": "TW",
+   "ISO_3": "TWN",
+   "Arabic_Short": "تايوان",
+   "Arabic_Official": "جمهورية الصين (تايوان)"
+ },
+ {
+   "ISO_2": "TZ",
+   "ISO_3": "TZA",
+   "Arabic_Short": "تنزانيا",
+   "Arabic_Official": "جمهورية تنزانيا الاتحادية"
+ },
+ {
+   "ISO_2": "UA",
+   "ISO_3": "UKR",
+   "Arabic_Short": "أوكرانيا",
+   "Arabic_Official": "أوكرانيا"
+ },
+ {
+   "ISO_2": "UG",
+   "ISO_3": "UGA",
+   "Arabic_Short": "أوغندا",
+   "Arabic_Official": "جمهورية أوغندا"
+ },
+ {
+   "ISO_2": "UM",
+   "ISO_3": "UMI",
+   "Arabic_Short": "جزر الولايات المتحدة الصغيرة النائية",
+   "Arabic_Official": "جزر الولايات المتحدة الصغيرة النائية"
+ },
+ {
+   "ISO_2": "US",
+   "ISO_3": "USA",
+   "Arabic_Short": "الولايات المتحدة",
+   "Arabic_Official": "الولايات المتحدة الأمريكية"
+ },
+ {
+   "ISO_2": "UY",
+   "ISO_3": "URY",
+   "Arabic_Short": "أوروغواي",
+   "Arabic_Official": "جمهورية أوروغواي الشرقية"
+ },
+ {
+   "ISO_2": "UZ",
+   "ISO_3": "UZB",
+   "Arabic_Short": "أوزبكستان",
+   "Arabic_Official": "جمهورية أوزبكستان"
+ },
+ {
+   "ISO_2": "VA",
+   "ISO_3": "VAT",
+   "Arabic_Short": "الفاتيكان",
+   "Arabic_Official": "دولة مدينة الفاتيكان"
+ },
+ {
+   "ISO_2": "VC",
+   "ISO_3": "VCT",
+   "Arabic_Short": "سانت فنسنت وجزر غرينادين",
+   "Arabic_Official": "سانت فنسنت وجزر غرينادين"
+ },
+ {
+   "ISO_2": "VE",
+   "ISO_3": "VEN",
+   "Arabic_Short": "فنزويلا",
+   "Arabic_Official": "جمهورية فنزويلا البوليفارية"
+ },
+ {
+   "ISO_2": "VG",
+   "ISO_3": "VGB",
+   "Arabic_Short": "جزر العذراء البريطانية",
+   "Arabic_Official": "جزر العذراء البريطانية"
+ },
+ {
+   "ISO_2": "VI",
+   "ISO_3": "VIR",
+   "Arabic_Short": "جزر العذراء الأمريكية",
+   "Arabic_Official": "جزر العذراء الأمريكية"
+ },
+ {
+   "ISO_2": "VN",
+   "ISO_3": "VNM",
+   "Arabic_Short": "فيتنام",
+   "Arabic_Official": "جمهورية فيتنام الاشتراكية"
+ },
+ {
+   "ISO_2": "VU",
+   "ISO_3": "VUT",
+   "Arabic_Short": "فانواتو",
+   "Arabic_Official": "جمهورية فانواتو"
+ },
+ {
+   "ISO_2": "WF",
+   "ISO_3": "WLF",
+   "Arabic_Short": "واليس وفوتونا",
+   "Arabic_Official": "واليس وفوتونا"
+ },
+ {
+   "ISO_2": "WS",
+   "ISO_3": "WSM",
+   "Arabic_Short": "ساموا",
+   "Arabic_Official": "دولة ساموا المستقلة"
+ },
+ {
+   "ISO_2": "YE",
+   "ISO_3": "YEM",
+   "Arabic_Short": "اليمن",
+   "Arabic_Official": "الجمهورية اليمنية"
+ },
+ {
+   "ISO_2": "YT",
+   "ISO_3": "MYT",
+   "Arabic_Short": "مايوت",
+   "Arabic_Official": "مايوت (فرنسا)"
+ },
+ {
+   "ISO_2": "ZA",
+   "ISO_3": "ZAF",
+   "Arabic_Short": "جنوب أفريقيا",
+   "Arabic_Official": "جمهورية جنوب أفريقيا"
+ },
+ {
+   "ISO_2": "ZM",
+   "ISO_3": "ZMB",
+   "Arabic_Short": "زامبيا",
+   "Arabic_Official": "جمهورية زامبيا"
+ },
+ {
+   "ISO_2": "ZW",
+   "ISO_3": "ZWE",
+   "Arabic_Short": "زيمبابوي",
+   "Arabic_Official": "جمهورية زيمبابوي"
+ },
+ {
+   "ISO_2": "Abkhazia",
+   "ISO_3": "",
+   "Arabic_Short": "أبخازيا",
+   "Arabic_Official": "جمهورية أبخازيا"
+ },
+ {
+   "ISO_2": "Artsakh",
+   "ISO_3": "",
+   "Arabic_Short": "أرتساخ",
+   "Arabic_Official": "جمهورية أرتساخ"
+ },
+ {
+   "ISO_2": "England",
+   "ISO_3": "",
+   "Arabic_Short": "إنجلترا",
+   "Arabic_Official": "إنجلترا"
+ },
+ {
+   "ISO_2": "Nagorno-Karabakh",
+   "ISO_3": "",
+   "Arabic_Short": "أرتساخ",
+   "Arabic_Official": "جمهورية أرتساخ"
+ },
+ {
+   "ISO_2": "Northern Cyprus",
+   "ISO_3": "",
+   "Arabic_Short": "قبرص الشمالية",
+   "Arabic_Official": "جمهورية شمال قبرص التركية"
+ },
+ {
+   "ISO_2": "Scotland",
+   "ISO_3": "",
+   "Arabic_Short": "سكوتلاندا",
+   "Arabic_Official": "سكوتلاندا"
+ },
+ {
+   "ISO_2": "South Ossetia",
+   "ISO_3": "",
+   "Arabic_Short": "أوسيتيا الجنوبية",
+   "Arabic_Official": "جمهورية أوسيتيا الجنوبية"
+ },
+ {
+   "ISO_2": "Transnistria",
+   "ISO_3": "",
+   "Arabic_Short": "ترانسنيستريا",
+   "Arabic_Official": "جمهورية بريدنيستروفيا المولدافية"
+ },
+ {
+   "ISO_2": "Wales",
+   "ISO_3": "",
+   "Arabic_Short": "ويلز",
+   "Arabic_Official": "ويلز"
+ },
+ {
+   "ISO_2": "Somaliland",
+   "ISO_3": "",
+   "Arabic_Short": "أرض الصومال",
+   "Arabic_Official": "جمهورية أرض الصومال"
+ }
+]
