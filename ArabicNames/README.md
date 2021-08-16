@@ -1,8 +1,9 @@
 The Accurate Country Arabic Names
 ====
 
+Click the link to download the csv file which you can open in MS Excel: [ISO_To_Arabic_Countries](https://github.com/MohsenAlyafei/Countries/blob/main/ArabicNames/Countries_ISO_To_Arabic.csv)
 
-Lists the most accurate and correct Arabic Names of World Countries in accordance with the UNGEGN List of Country Names issued by the United Nations.
+The file lists the most accurate and correct Arabic Names of World Countries in accordance with the UNGEGN List of Country Names issued by the United Nations.
 
 Field Entries:
 
